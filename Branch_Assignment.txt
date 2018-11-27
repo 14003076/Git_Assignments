@@ -1,0 +1,50 @@
+                        Branch  commands
+
+1. git init
+
+2. git add first.txt
+
+3. git commit -am "adds first.txt"
+
+4. git status
+
+5. git mv first.txt first_name.txt
+
+6. git status
+
+7. git commit -am "adds first_name.txt"
+
+8. git branch cloud
+
+9. git branch
+
+10. git checkout cloud
+
+11. git checkout -b cloud
+
+12. git branch
+
+13. git commit -am "adds first_name.txt"
+
+14. git checkout master
+
+15. git branch
+
+16. git status
+
+17. git commit -am "adds first_name.txt"
+
+18. git status
+
+19. git diff master cloud
+
+20. git status
+
+21. git merge cloud
+
+22. git status
+
+23. git log
+
+24. git status
+
